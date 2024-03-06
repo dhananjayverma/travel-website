@@ -13,10 +13,10 @@ Tourly is a modern and visually appealing website template for a travel agency. 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/tourly.git
 
 
- ## deploy :-  <a href=" "><strong>➥ Live Demo</strong></a>
+
+ ## deploy :-  <a href="https://relaxed-narwhal-3a34eb.netlify.app/ "><strong>➥ Live Demo</strong></a>
 
 </div>
 
